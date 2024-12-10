@@ -1,0 +1,2 @@
+# python_flask_vue_job_rec2025
+计算机毕业设计vue.js+flask机器学习薪资预测系统求职推荐工资预测可视化大数据就业大数据 决策树随机森林 招生大数据 深度学习 Python爬虫
